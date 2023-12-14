@@ -1,0 +1,59 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color:#FB8B24;
+}
+div{
+    background-color:#4CB9E7;
+    padding: 10px 20px 30px 40px;
+    border: 2px solid black;
+    margin: 20px 40px;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+a:hover {
+    color: aqua;
+    text-decoration: dotted;
+    font-size: 1.5em;
+    border: 2px dotted black;
+}
+a:visited {
+    color: aquamarine;
+}
+img:hover {
+    border-radius: 50px;
+    height: 250px;
+    transition: 0.5s;
+    
+}
+
+.main-container {
+    background-color: chartreuse;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+h3{
+    color:#1640D6;
+}
+
+.links {
+    color:#7743DB;
+    text-decoration: none;
+}
+
+.red {
+    text-decoration: dotted;
+}
+
+#u-list {
+    list-style-type: armenian;
+}
+#red-link {
+    color: red;
+}
