@@ -3,6 +3,7 @@
 }
 body {
     background-color:#FB8B24;
+    cursor: url("/fotos/hormiga.png") auto;
 }
 div{
     background-color:#4CB9E7;
